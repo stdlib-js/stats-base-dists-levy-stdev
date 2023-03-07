@@ -32,10 +32,14 @@ The [standard deviation][standard-deviation] for a [Lévy][levy-distribution] ra
 
 <!-- <equation class="equation" label="eq:levy_stdev" align="center" raw="\sigma = \infty" alt="Standard deviation for a Lévy distribution."> -->
 
-<div class="equation" align="center" data-raw-text="\sigma = \infty" data-equation="eq:levy_stdev">
+```math
+\sigma = \infty
+```
+
+<!-- <div class="equation" align="center" data-raw-text="\sigma = \infty" data-equation="eq:levy_stdev">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@51534079fef45e990850102147e8945fb023d1d0/lib/node_modules/@stdlib/stats/base/dists/levy/stdev/docs/img/equation_levy_stdev.svg" alt="Standard deviation for a Lévy distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -216,7 +220,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
