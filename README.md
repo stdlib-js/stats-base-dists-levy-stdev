@@ -67,7 +67,7 @@ The [standard deviation][standard-deviation] for a [Lévy][levy-distribution] ra
 ## Usage
 
 ```javascript
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-stdev@esm/index.mjs';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-stdev@v0.3.1-esm/index.mjs';
 ```
 
 #### stdev( mu, c )
@@ -132,7 +132,7 @@ y = stdev( 0.0, -1.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-stdev@esm/index.mjs';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-stdev@v0.3.1-esm/index.mjs';
 
 var mu;
 var c;
